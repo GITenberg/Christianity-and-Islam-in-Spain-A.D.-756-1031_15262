@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '5955'
     url: http://www.gutenberg.org/2009/agents/5955
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15262#Christianity-and-Islam-in-Spain-A.D.-756-1031
 gutenberg_bookshelf: Islam
 gutenberg_issued: '2005-03-05'
 gutenberg_type: Text
