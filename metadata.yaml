@@ -1,0 +1,28 @@
+_repo: Christianity-and-Islam-in-Spain-A.D.-756-1031_15262
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Haines, Charles Reginald
+    alias: Haines, C. R. (Charles Reginald)
+    gutenberg_agent_id: '5955'
+    url: http://www.gutenberg.org/2009/agents/5955
+description: ''
+gutenberg_bookshelf: Islam
+gutenberg_issued: '2005-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15262'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BR'
+- !lcsh 'Christianity -- Spain'
+- !lcsh 'Islam -- Spain'
+- !lcsh 'Christian martyrs -- Spain'
+title: Christianity and Islam in Spain, A.D. 756-1031
+url: http://www.gutenberg.org/ebooks/15262
